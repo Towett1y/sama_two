@@ -33,7 +33,7 @@ body, h1, h2, h3, p, ul, li {
 }
 
 .hero {
-    background-image: url('black-background-with-stationery.jpg');
+    background-image: url('img/black-background-with-stationery.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
